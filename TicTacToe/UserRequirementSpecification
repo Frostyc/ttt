@@ -1,1 +1,11 @@
 This is the URS
+
+The URS should be a list with priority most important features on the top
+
+- Tic Tac Toe Should work in a way that players take turns in placing their moves on the board playing on the same client
+
+- TTT should have network support for remote multiplayer games 
+
+- TTT should have AI for single player games 
+
+- TTT should have save game feature (Frostyc suggestion)
